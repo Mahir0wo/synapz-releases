@@ -21,9 +21,9 @@
 
 ## 👤 Créer un compte
 
-Les comptes Synapz sont créés via notre Discord. Rejoins-nous et ouvre un ticket pour obtenir ton accès :
+Rejoins le Discord et va dans le salon dédié, puis appuie sur le bouton du bot pour créer ton compte :
 
-👉 **[Rejoindre le Discord](https://discord.gg/6AbPp7MRNC)**
+👉 **[Créer mon compte Synapz](https://discord.com/channels/1187797626201063465/1501613346376384553)**
 
 ---
 
