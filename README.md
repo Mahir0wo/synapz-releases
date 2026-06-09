@@ -19,6 +19,14 @@
 
 ---
 
+## 👤 Créer un compte
+
+Les comptes Synapz sont créés via notre Discord. Rejoins-nous et ouvre un ticket pour obtenir ton accès :
+
+👉 **[Rejoindre le Discord](https://discord.gg/6AbPp7MRNC)**
+
+---
+
 ## 🍎 Problème sur Mac M1/M2/M3 — L'app ne s'ouvre pas ?
 
 macOS bloque les applications qui ne sont pas signées par Apple. C'est normal, voilà comment contourner ça :
